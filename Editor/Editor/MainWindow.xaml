@@ -1,0 +1,27 @@
+﻿<Window x:Class="Editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Editor"
+        mc:Ignorable="d"
+        Title="Текстовый редактор" Height="500" Width="800" Icon="notepad-icon.ico">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="25" />
+            <Setter Property="Width" Value="80" />
+            <Setter Property="Margin" Value="25 5 25 5" />
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FFB6C9EA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <RichTextBox x:Name="docBox" />
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button Content="Сохранить" Click="Save_Click" Background="#FF44AFF9" />
+            <Button Content="Загрузить"  Click="Load_Click" Background="#FF44AFF9" />
+        </StackPanel>
+    </Grid>
+</Window>

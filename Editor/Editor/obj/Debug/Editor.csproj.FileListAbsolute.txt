@@ -1,0 +1,14 @@
+D:\Projects\c scharp\Editor\Editor\bin\Debug\Editor.exe.config
+D:\Projects\c scharp\Editor\Editor\bin\Debug\Editor.exe
+D:\Projects\c scharp\Editor\Editor\bin\Debug\Editor.pdb
+D:\Projects\c scharp\Editor\Editor\obj\Debug\MainWindow.g.cs
+D:\Projects\c scharp\Editor\Editor\obj\Debug\App.g.cs
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor_MarkupCompile.cache
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor_MarkupCompile.lref
+D:\Projects\c scharp\Editor\Editor\obj\Debug\MainWindow.baml
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.g.resources
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.exe
+D:\Projects\c scharp\Editor\Editor\obj\Debug\Editor.pdb
